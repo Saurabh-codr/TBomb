@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
+  <a href="https://github.com/Saurabh-codr/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
   <br>
-  TBomb v2.1b
+  TBomb v2.1
   <br>
 </h1>
 
@@ -47,27 +47,7 @@ or any version greater than or equal to 3.4, this script has been tested and con
 - Modular codebase and snippets can be easily embedded in other program
 
 
-## Usage:
-
-### Install by PIP (Recommended)
-
-Before continuing make sure following requirements are satisfied:
-
-- Python version greater than or equal to 3.4 is installed
-- pip is installed for Python 3
-
-Install `tbomb` package by running:
-
-```shell script
-pip3 install tbomb
-```
-
-Run TBomb by just typing:
-```shell script
-tbomb
-```
-
-### Install from GIT
+### Install from GITHUB
 
 #### NOTE 
 
