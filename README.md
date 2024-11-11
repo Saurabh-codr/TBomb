@@ -111,6 +111,7 @@ Currently closed.
 ### TODO:
 
 - [x] Make Code More Readable and Extensible
+- [ ] Add web support
 - [ ] Add More Mail Spam APIs
 - [ ] Add More SMS Spam APIs
 - [ ] Add More Call Spam APIs
